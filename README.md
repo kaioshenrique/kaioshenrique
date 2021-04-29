@@ -1,8 +1,8 @@
 # Hey, sou Kaio Henrique! :D
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/kaioshenrique/)
 
-### Sobre mim
-🇧🇷 Sou desenvolvedor Android apaixonado por tecnologia e seus benefícios <br> e nas horas vagas me arrisco tocando guitarra 🎸🎵
+### Sobre mim / About me
+🇧🇷 Sou desenvolvedor Android apaixonado por tecnologia e seus benefícios <br> e nas horas vagas me arrisco tocando guitarra 🎸🎵 <br>
 🇺🇸 I am an Android developer passionate about technology and its benefits <br> and in my spare time I risk playing the guitar 🎸🎵
 
 
